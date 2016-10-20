@@ -1,0 +1,21 @@
+speed 20
+pen black  
+rt 360,20 
+lt 90 
+fd 60 
+lt 90 
+rt 540,20 
+fd 10 
+rt 90,20 
+rt 90,20
+fd 10
+lt 90; fd 60
+lt 90; fd 10
+rt 90,20 
+rt 90,20
+fd 10
+lt 90; fd 60
+lt 165,35; lt 15;fd 56
+rt 45; fd 70; lt 45; fd 65; lt 45; fd 70
+rt 45; fd 70; lt 180, 32; fd 80
+fill grey 
